@@ -1,2 +1,2 @@
 # AdventOfCode2019
-Advent of Code 2019
+Using [Advent of Code 2019](https://adventofcode.com/2019) to sharpen my Go skills.
